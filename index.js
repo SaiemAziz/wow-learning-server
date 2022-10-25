@@ -19,7 +19,7 @@ app.get('/courses/:category', (req, res)=>{
     let catSubjects = subjects.filter(sub => sub.category === category)
     res.send(catSubjects)
 })
-app.get('/courses/:id', (req, res)=>{
+app.get('/courses/subject/:id', (req, res)=>{
     let id = req.params.id;
     let subject = subjects.find(sub => sub._id === id)
     res.send(subject)

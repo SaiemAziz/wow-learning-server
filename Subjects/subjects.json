@@ -3,54 +3,56 @@
         "_id" : "physics",
         "category" : "science",
         "name" : "Physics",
-        "pic" : "./images/physics.jpg"
+        "pic" : "https://i.ibb.co/3Yf1wmz/physics.jpg"
     },
     {
         "_id" : "chemistry",
         "category" : "science",
         "name" : "Chemistry",
-        "pic" : "./images/chemistry.jpg"
+        "pic" : "https://i.ibb.co/jVLX2Qb/chemistry.jpg"
     },
     {
         "_id" : "biology",
         "category" : "science",
         "name" : "Biology",
-        "pic" : "./images/biology.jpg"
+        "pic" : "https://i.ibb.co/1ZFnxjt/biology.jpg"
     },
     {
         "_id" : "highermath",
         "category" : "science",
         "name" : "Higher Math",
-        "pic" : "./images/highermath.jpg"
+        "pic" : "https://i.ibb.co/Ctc8BkY/highermath.jpg"
     },
     {
         "_id" : "generalmath",
         "category" : "general",
         "name" : "General Math",
-        "pic" : "./images/generalmath.jpg"
+        "pic" : "https://i.ibb.co/yWh0RK4/generalmath.jpg"
     },
     {
         "_id" : "bangla-1st",
         "category" : "general",
         "name" : "Bangla Shahitto",
-        "pic" : "./images/bangla-1st.jpg"
+        "pic" : "https://i.ibb.co/wS1844Q/bangla-1st.jpg"
     },
     {
         "_id" : "english-1st",
         "category" : "general",
         "name" : "English For Today",
-        "pic" : "./images/english-1st.jpg"
+        "pic" : "https://i.ibb.co/2gNsXB3/english-1st.jpg"
     },
     {
         "_id" : "religion",
         "category" : "general",
         "name" : "Islam Shikkha",
-        "pic" : "./images/religion.jpg"
+        "pic" : "https://i.ibb.co/chnQ9QJ/religion.jpg"
     },
     {
         "_id" : "social",
         "category" : "general",
         "name" : "B.G.S.",
-        "pic" : "./images/social.jpg"
+        "pic" : "https://i.ibb.co/LrZ8v3b/social.jpg"
     }
 ]
+
+
