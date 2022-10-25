@@ -3,55 +3,64 @@
         "_id" : "physics",
         "category" : "science",
         "name" : "Physics",
-        "pic" : "https://i.ibb.co/3Yf1wmz/physics.jpg"
+        "pic" : "https://i.ibb.co/3Yf1wmz/physics.jpg",
+        "description" : "Physics is one of the hardest subject in class 9-10 syllebus according to our country's academic system. To get a good grade student has to work very hard to know and memorise all the topics at once. As a student of class 9-10 it is really hard enough to learn this subjects topics by all alone. Thats why we, WOW team are here to help you with this problem. Join with us today without anymore delay"
     },
     {
         "_id" : "chemistry",
         "category" : "science",
         "name" : "Chemistry",
-        "pic" : "https://i.ibb.co/jVLX2Qb/chemistry.jpg"
+        "pic" : "https://i.ibb.co/jVLX2Qb/chemistry.jpg",
+        "description" : "Chemistry is one of the hardest subject in class 9-10 syllebus according to our country's academic system. To get a good grade student has to work very hard to know and memorise all the topics at once. As a student of class 9-10 it is really hard enough to learn this subjects topics by all alone. Thats why we, WOW team are here to help you with this problem. Join with us today without anymore delay"
     },
     {
         "_id" : "biology",
         "category" : "science",
         "name" : "Biology",
-        "pic" : "https://i.ibb.co/1ZFnxjt/biology.jpg"
+        "pic" : "https://i.ibb.co/1ZFnxjt/biology.jpg",
+        "description" : "Biology is one of the hardest subject in class 9-10 syllebus according to our country's academic system. To get a good grade student has to work very hard to know and memorise all the topics at once. As a student of class 9-10 it is really hard enough to learn this subjects topics by all alone. Thats why we, WOW team are here to help you with this problem. Join with us today without anymore delay"
     },
     {
         "_id" : "highermath",
         "category" : "science",
         "name" : "Higher Math",
-        "pic" : "https://i.ibb.co/Ctc8BkY/highermath.jpg"
+        "pic" : "https://i.ibb.co/Ctc8BkY/highermath.jpg",
+        "description" : "Higher Math is one of the hardest subject in class 9-10 syllebus according to our country's academic system. To get a good grade student has to work very hard to know and memorise all the topics at once. As a student of class 9-10 it is really hard enough to learn this subjects topics by all alone. Thats why we, WOW team are here to help you with this problem. Join with us today without anymore delay"
     },
     {
         "_id" : "generalmath",
         "category" : "general",
         "name" : "General Math",
-        "pic" : "https://i.ibb.co/yWh0RK4/generalmath.jpg"
+        "pic" : "https://i.ibb.co/yWh0RK4/generalmath.jpg",
+        "description" : "General Math is one of the hardest subject in class 9-10 syllebus according to our country's academic system. To get a good grade student has to work very hard to know and memorise all the topics at once. As a student of class 9-10 it is really hard enough to learn this subjects topics by all alone. Thats why we, WOW team are here to help you with this problem. Join with us today without anymore delay"
     },
     {
         "_id" : "bangla-1st",
         "category" : "general",
         "name" : "Bangla Shahitto",
-        "pic" : "https://i.ibb.co/wS1844Q/bangla-1st.jpg"
+        "pic" : "https://i.ibb.co/wS1844Q/bangla-1st.jpg",
+        "description" : "Bangla Sahitto is one of the hardest subject in class 9-10 syllebus according to our country's academic system. To get a good grade student has to work very hard to know and memorise all the topics at once. As a student of class 9-10 it is really hard enough to learn this subjects topics by all alone. Thats why we, WOW team are here to help you with this problem. Join with us today without anymore delay"
     },
     {
         "_id" : "english-1st",
         "category" : "general",
         "name" : "English For Today",
-        "pic" : "https://i.ibb.co/2gNsXB3/english-1st.jpg"
+        "pic" : "https://i.ibb.co/2gNsXB3/english-1st.jpg",
+        "description" : "English For Today is one of the hardest subject in class 9-10 syllebus according to our country's academic system. To get a good grade student has to work very hard to know and memorise all the topics at once. As a student of class 9-10 it is really hard enough to learn this subjects topics by all alone. Thats why we, WOW team are here to help you with this problem. Join with us today without anymore delay"
     },
     {
         "_id" : "religion",
         "category" : "general",
         "name" : "Islam Shikkha",
-        "pic" : "https://i.ibb.co/chnQ9QJ/religion.jpg"
+        "pic" : "https://i.ibb.co/chnQ9QJ/religion.jpg",
+        "description" : "Islam Shikkha is one of the hardest subject in class 9-10 syllebus according to our country's academic system. To get a good grade student has to work very hard to know and memorise all the topics at once. As a student of class 9-10 it is really hard enough to learn this subjects topics by all alone. Thats why we, WOW team are here to help you with this problem. Join with us today without anymore delay"
     },
     {
         "_id" : "social",
         "category" : "general",
         "name" : "B.G.S.",
-        "pic" : "https://i.ibb.co/LrZ8v3b/social.jpg"
+        "pic" : "https://i.ibb.co/LrZ8v3b/social.jpg",
+        "description" : "Bangladesh and Global Studies is one of the hardest subject in class 9-10 syllebus according to our country's academic system. To get a good grade student has to work very hard to know and memorise all the topics at once. As a student of class 9-10 it is really hard enough to learn this subjects topics by all alone. Thats why we, WOW team are here to help you with this problem. Join with us today without anymore delay"
     }
 ]
 
