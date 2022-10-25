@@ -8,8 +8,21 @@ const subjects = require('./Subjects/subjects.json')
 
 
 
-app.get('/', (req, res) => {
+app.get('/courses', (req, res) => {
     res.send(subjects)
+})
+app.get('/courses/all', (req, res) => {
+    res.send(subjects)
+})
+app.get('/courses/:category', (req, res)=>{
+    let category = req.params.category;
+    let catSubjects = subjects.filter(sub => sub.category === category)
+    res.send(catSubjects)
+})
+app.get('/courses/:id', (req, res)=>{
+    let id = req.params.id;
+    let subject = subjects.find(sub => sub._id === id)
+    res.send(subject)
 })
   
 app.listen(port, () => {
